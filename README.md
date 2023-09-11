@@ -20,5 +20,7 @@ Multiply block size by the offset then add that to the ruler. If you look it eno
 
 Original is here: https://github.com/razorheadfx/tropy
 
-With love, Sina
+With love,
+Sina
+
 QVLx Labs
