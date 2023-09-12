@@ -1,7 +1,7 @@
 # Tropy_Plus
 Tropy entropy render suited for embedded systems plus some features. -ST
 
-Using RGB type coloring schemes no enough for console programs:
+Using RGB type coloring schemes not enough for console programs:
 
 ![image](https://github.com/STashakkori/Better_Tropy/assets/4257899/28936b73-8f93-4c02-9fe1-31e51b0e42a5)
 
