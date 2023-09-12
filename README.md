@@ -5,7 +5,7 @@ Using RGB type coloring schemes no enough for console programs:
 
 ![image](https://github.com/STashakkori/Better_Tropy/assets/4257899/28936b73-8f93-4c02-9fe1-31e51b0e42a5)
 
-Intention id to look like:
+Intention is to look like:
 
 ![image](https://github.com/STashakkori/Better_Tropy/assets/4257899/5a1558ac-f0f5-42ed-b262-08ed3bb66d52)
 
