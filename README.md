@@ -1,4 +1,4 @@
-# Better_Tropy
+# Tropy_Plus
 Helped Tropy entropy since it uses RGB. Added features. -ST
 
 Using RGB type coloring schemes no enough for console programs:
