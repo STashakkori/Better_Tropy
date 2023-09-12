@@ -11,7 +11,7 @@ Intention is to look like:
 
 Rework of rendering and some small feature adds so looks like:
 
-![image](https://github.com/STashakkori/Better_Tropy/assets/4257899/4de30213-0a1e-4085-bc09-91426d3ab8dc)
+![image](https://github.com/STashakkori/Better_Tropy/assets/4257899/931784b6-fa65-40bc-928f-7007f031d63e)
 
 Now it uses standard 256 color ansi codes + increased resolution + block measurements.
 
